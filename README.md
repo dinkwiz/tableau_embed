@@ -1,6 +1,6 @@
 ## Tableau Embedding Project
 
-#Aim:
+## aim:
 To learn how to embed Tableau dashboards into a webpage. 
 
 
@@ -10,6 +10,7 @@ To learn how to embed Tableau dashboards into a webpage.
 
 
 
+## thoughts, notes and randomness
 
 After successfully uploading my code I needed to figure out how I could actually view the webpage I had create (not just the html code).
 
