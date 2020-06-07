@@ -1,4 +1,4 @@
-Project to embed Tableau dashboards within a webpage.
+# Tableau Embedding Project
 
 ## aim:
 To learn how to embed Tableau dashboards into a webpage. 
